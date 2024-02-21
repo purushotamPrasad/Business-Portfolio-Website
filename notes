@@ -1,0 +1,17 @@
+1 color pick karne ke liye useable website = colorhunt
+2 icon lene ke liye website = font awesome
+    use proces= first use fontawesome cdn then use icon 
+    cdn website(cdnjs)
+
+3 font-style ke liye useable website name =google fontawesome
+    use proces 1 select your style which are use then select maltipul font weight
+     are your use
+     2 click on right side give icon it name is selected families then
+     3 give import option that select and use the css page ya style tag 
+     4 after that then select  CSS rules to specify families its give 
+     below the font-style page other wise are you use directaly the call 
+        fontfamily
+4 box-shadow ke liye website= GetCssScan
+    use which style are you use directaly click on the box and copy the 
+    where are you use then put on 
+
